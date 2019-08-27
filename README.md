@@ -10,16 +10,7 @@ If the code is useful, please cite as
 Qiu R.J., Liu C.W., Cui N.B.,Wang Z.C., Wu Y.J. , Li G., 2019. Evapotranspiration estimation using a modified Priestley-Taylor model in a rice-wheat rotation system. Agricultural Water Management, 224,105755
 
 %--------------Input data--------------%
-1.	Rn- net radiation 
-2.	G-ground heat flux
-3.	VP_upper- vapour pressure in the upper layer
-4.	VP_lower- vapour pressure in the lower layer
-5.	Bowen_ratio
-6.	ET-initial Latent heat flux
-7.	H-initial sensible heat flux
-8.	delta_T- temperature accuracy
-9.	delta_VP - vapour pressure accuracy
-10.	Pa- air pressure (Kpa)
+1.	Rn- net radiation  2.	G-ground heat flux 3.	VP_upper- vapour pressure in the upper layer 4.	VP_lower- vapour pressure in the lower layer 5.	Bowen_ratio 6.	ET-initial Latent heat flux 7.	H-initial sensible heat flux 8.	delta_T- temperature accuracy 9.	delta_VP - vapour pressure accuracy 10.	Pa- air pressure (Kpa)
 Following the steps below:
 (1) Prepare the data file in excel as follows
 1     2   3  4       5    6      7         8  9
